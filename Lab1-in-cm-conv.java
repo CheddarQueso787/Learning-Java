@@ -1,3 +1,5 @@
+//this program will convert a measurement from inches to centimenters
+
 import java.util.Scanner;
 
 public class Labs1 {
